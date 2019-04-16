@@ -1,0 +1,9 @@
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\bin\Debug\netcoreapp2.1\SelfBlog.Frame.deps.json
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\bin\Debug\netcoreapp2.1\SelfBlog.Frame.dll
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\obj\Debug\netcoreapp2.1\SelfBlog.Frame.csproj.CoreCompileInputs.cache
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\obj\Debug\netcoreapp2.1\SelfBlog.Frame.AssemblyInfoInputs.cache
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\obj\Debug\netcoreapp2.1\SelfBlog.Frame.AssemblyInfo.cs
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\bin\Debug\netcoreapp2.1\SelfBlog.Frame.pdb
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\obj\Debug\netcoreapp2.1\SelfBlog.Frame.csprojAssemblyReference.cache
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\obj\Debug\netcoreapp2.1\SelfBlog.Frame.dll
+E:\Liusimawen个人资料\SelfBlog\SelfBlog.Frame\obj\Debug\netcoreapp2.1\SelfBlog.Frame.pdb

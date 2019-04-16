@@ -1,0 +1,8 @@
+﻿@charset "utf-8";
+img {
+    max-width: 300px;
+    width: expression(this.width>300?"300px":this.width+"px");
+    max-height: 300px;
+    height: expression(this.height>300?"300px":this.height+"px");
+    overflow: hidden;
+}
